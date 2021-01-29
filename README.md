@@ -1,6 +1,5 @@
 # myWebsite
 
-This is awesome!
+new line 1
 
-
-now editing on update readme file
+New line 2
